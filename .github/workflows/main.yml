@@ -1,14 +1,20 @@
 name: Sync LeetCode
+
 on:
-  workflow_dispatch: # Allows you to run it manually with one click
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs automatically every day
+    - cron: '0 0 * * *'
+
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v3
+
       - name: Sync
         uses: joshcai/leetcode-sync@v1.7
         with:
