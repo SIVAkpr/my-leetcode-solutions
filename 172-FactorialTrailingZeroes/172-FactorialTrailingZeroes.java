@@ -1,0 +1,11 @@
+// Last updated: 3/21/2026, 3:40:42 PM
+class Solution {
+    public int trailingZeroes(int n) {
+        int cnt=0;
+        while(n>0){
+            n=n/5;
+            cnt+=n;
+        }
+        return cnt;
+    }
+}
