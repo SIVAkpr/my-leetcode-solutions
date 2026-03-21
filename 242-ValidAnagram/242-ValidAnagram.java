@@ -1,0 +1,20 @@
+// Last updated: 3/21/2026, 3:40:38 PM
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        if(s.length()!=t.length()){
+            return false;
+        }
+        HashMap<Character,Integer> map1=new HashMap<>();
+        HashMap<Character,Integer> map2=new HashMap<>();
+        for(int i=0;i<s.length();i++){
+            map1.put(s.charAt(i),map1.getOrDefault(s.charAt(i),0)+1);
+            map2.put(t.charAt(i),map2.getOrDefault(t.charAt(i),0)+1);
+        }
+        for(Map.Entry<Character,Integer> entry: map1.entrySet()){
+            if(!entry.getValue().equals(map2.get(entry.getKey()))){
+                return false;
+            }
+        }
+        return true;
+    }
+}
