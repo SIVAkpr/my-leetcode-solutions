@@ -1,12 +1,16 @@
 name: Sync Leetcode
 on:
-  workflow_dispatch:      # Allows you to run it manually
+  workflow_dispatch:
   schedule:
-    - cron: "0 8 * * 6"    # Runs every Saturday at 8:00 AM
+    - cron: "0 8 * * 6"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # This line tells GitHub to stop complaining about the Node version for now
+    env:
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true 
+    
     steps:
       - name: Sync
         uses: joshcai/leetcode-sync@v1.7
@@ -14,4 +18,4 @@ jobs:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          destination-folder: 'solutions' # Optional: folder name
+          destination-folder: 'solutions'
