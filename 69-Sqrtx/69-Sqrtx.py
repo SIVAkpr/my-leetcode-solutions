@@ -1,0 +1,10 @@
+# Last updated: 3/21/2026, 3:41:01 PM
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        if x==0 or x==1:
+            return x
+        for i in range((x//2)+2):
+            if i*i==x:
+                return i
+            elif i*i>x:
+                return i-1
