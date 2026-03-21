@@ -1,7 +1,0 @@
-# Last updated: 3/21/2026, 3:40:49 PM
-class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
-        k=nums[0]
-        for i in range(1,len(nums)):
-            k=k^nums[i]
-        return k
