@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Greedy
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
