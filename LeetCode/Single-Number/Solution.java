@@ -1,6 +1,17 @@
-1class Solution:
-2    def singleNumber(self, nums: List[int]) -> int:
-3        k=nums[0]
-4        for i in range(1,len(nums)):
-5            k=k^nums[i]
-6        return k
+1class Solution {
+2    public int singleNumber(int[] nums) {
+3        if(nums.length==1) return nums[0];
+4        // Map<Integer,Integer> map=new Hashmap<>();
+5        Map<Integer, Integer> map = new HashMap<>();
+6        for(int i : nums){
+7            map.put(i,map.getOrDefault(i,0)+1);
+8        }
+9        // System.out.println(map);
+10        for(Map.Entry<Integer,Integer> entry: map.entrySet()){
+11            if (entry.getValue()==1){
+12                return entry.getKey();
+13            }
+14        }
+15        return -1;
+16    }
+17}
