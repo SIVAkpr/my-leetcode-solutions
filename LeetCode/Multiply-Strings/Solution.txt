@@ -1,0 +1,11 @@
+1class Solution:
+2    def multiply(self, num1: str, num2: str) -> str:
+3        x=0
+4        y=0
+5        for i in num1:
+6            v = ord(i)-ord('0')
+7            x=x*10+v
+8        for i in num2:
+9            v = ord(i)-ord('0')
+10            y=y*10+v
+11        return str(x*y)
