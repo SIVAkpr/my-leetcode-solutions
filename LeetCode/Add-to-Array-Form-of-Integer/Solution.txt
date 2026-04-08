@@ -1,0 +1,18 @@
+1class Solution {
+2    public List<Integer> addToArrayForm(int[] num, int k) {
+3       List<Integer> list=new ArrayList<>();
+4       int i=num.length-1;
+5       int carry=k;
+6       while(i>=0 || carry>0){
+7        if(i>=0){
+8        carry+=num[i];
+9        i--;
+10       }
+11       list.add(carry%10);
+12       carry/=10;
+13       }
+14       Collections.reverse(list);
+15    return list;
+16
+17    }
+18}
