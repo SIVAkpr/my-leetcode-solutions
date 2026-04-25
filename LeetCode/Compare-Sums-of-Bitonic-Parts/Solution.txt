@@ -1,0 +1,10 @@
+1class Solution:
+2    def compareBitonicSums(self, nums: list[int]) -> int:
+3        m=max(nums)
+4        idx=nums.index(m)
+5        a=sum(nums[:idx])
+6        b=sum(nums[idx+1:])
+7        if a==b:
+8            return -1
+9        else:
+10            return 0 if a>b else 1
