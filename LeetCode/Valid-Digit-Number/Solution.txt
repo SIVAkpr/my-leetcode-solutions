@@ -1,0 +1,20 @@
+1class Solution:
+2    def validDigit(self, n: int, x: int) -> bool:
+3        occ=0
+4        if(n<10):
+5            if n==x:
+6                return False
+7            else:
+8                return False
+9        while(n>0):
+10            a=n%10
+11            if a==x:
+12                occ+=1
+13            if(x<10):
+14                if n==x:
+15                    return False
+16            n=n//10
+17        if(occ):
+18            return True
+19        else:
+20            return False
