@@ -1,0 +1,30 @@
+1class Solution:
+2    def kthRemainingInteger(self, nums: list[int], queries: list[list[int]]) -> list[int]:
+3        even_cnt=[0]*(len(nums)+1)
+4        for i,x in enumerate(nums):
+5            even_cnt[i+1]=even_cnt[i]+(1 if x%2==0 else 0)
+6        ans=[]
+7        for q1,q2,q3 in queries:
+8            low=1
+9            high=2*(len(nums)+q3)
+10            res=high
+11            while low<=high:
+12                mid=(low+high)//2
+13                if mid%2!=0:
+14                    mid-=1
+15                if mid<2:
+16                    low=mid+2
+17                    continue
+18                tot_mid_eve=mid//2
+19                idx_st=q1
+20                idx_end=bisect.bisect_right(nums,mid,lo=q1,hi=q2+1)-1
+21                removed_eve=0
+22                if idx_end>=idx_st:
+23                    removed_eve=even_cnt[idx_end+1]-even_cnt[idx_st]
+24                if tot_mid_eve-removed_eve>=q3:
+25                    res=mid
+26                    high=mid-2
+27                else:
+28                    low=mid+2
+29            ans.append(res)
+30        return ans
