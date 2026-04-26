@@ -1,0 +1,21 @@
+1class Solution:
+2    def sortVowels(self, s: str) -> str:
+3        vowels=set("aeiou")
+4        freq={}
+5        first={}
+6        for i, ch in enumerate(s):
+7            if ch in vowels:
+8                freq[ch]=freq.get(ch,0)+1
+9                if ch not in first:
+10                    first[ch]=i
+11        order=sorted(freq.keys(),key=lambda ch:(-freq[ch],first[ch]))
+12        arr=[]
+13        for v in order:
+14            arr.extend([v]*freq[v])
+15        res=list(s)
+16        i=0
+17        for j in range(len(res)):
+18            if res[j] in vowels:
+19                res[j]=arr[i]
+20                i+=1
+21        return ''.join(res)
