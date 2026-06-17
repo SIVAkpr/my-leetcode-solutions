@@ -9,16 +9,6 @@
 9            }
 10            s=x.toString();
 11        }
-12        // String rev=new StringBuilder(s).reverse().toString();
-13        return s.charAt(0)==s.charAt(1);
-14    }
-15    public String check(String x){
-16        String ans="";
-17        for(int i=0;i<x.length()-1;i++){
-18            int a=x.charAt(i)-'0';
-19            int b=x.charAt(i+1)-'0';
-20            ans+=((a+b)%10);
-21        }
-22        return ans;
-23    }
-24}
+12        return s.charAt(0)==s.charAt(1);
+13    }
+14}
