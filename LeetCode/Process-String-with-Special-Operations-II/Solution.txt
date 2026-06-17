@@ -1,0 +1,40 @@
+1class Solution {
+2    public char processStr(String s, long k) {
+3        long m = 0;
+4
+5        for (char c : s.toCharArray()) {
+6            if (c == '*') {
+7                m = Math.max(0, m - 1);
+8            } 
+9            else if (c == '#') {
+10                m *= 2;
+11            } 
+12            else if (c != '%') {
+13                m++;
+14            }
+15        }
+16
+17        if (k >= m) return '.';
+18
+19        for (int i = s.length() - 1; i >= 0; i--) {
+20            char c = s.charAt(i);
+21
+22            if (c == '*') {
+23                m++;
+24            } 
+25            else if (c == '#') {
+26                m /= 2;
+27                if (k >= m) k -= m;
+28            } 
+29            else if (c == '%') {
+30                k = m - 1 - k;
+31            } 
+32            else {
+33                m--;
+34                if (k == m) return c;
+35            }
+36        }
+37
+38        return '.';
+39    }
+40}
