@@ -1,0 +1,17 @@
+1class Solution {
+2    public int numRescueBoats(int[] people, int limit) {
+3        Arrays.sort(people);
+4        int left = 0;
+5        int right = people.length-1;
+6        int boats = 0;
+7        while(left<=right){
+8            if(people[left]+people[right]<=limit){
+9                left++;
+10            }
+11            right--;
+12            boats++;
+13
+14        }
+15        return boats ;
+16    }
+17}
