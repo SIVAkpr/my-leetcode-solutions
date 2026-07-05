@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Enumeration
 |  |
@@ -78,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
