@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
 | ------- |
