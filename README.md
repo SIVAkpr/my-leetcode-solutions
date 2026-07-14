@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0290-word-pattern](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0290-word-pattern) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0290-word-pattern) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
