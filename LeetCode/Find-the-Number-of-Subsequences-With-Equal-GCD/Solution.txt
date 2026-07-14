@@ -1,0 +1,35 @@
+1class Solution {
+2int n, mod;
+3vector<int> v;
+4vector<vector<int>> GCD;
+5vector<vector<vector<long long>>> dp;
+6
+7private:
+8    long long ex(int i, int gcd1, int gcd2){
+9        if(i==n) return (gcd1==gcd2 && gcd1);
+10        if(dp[i][gcd1][gcd2]!=-1) return dp[i][gcd1][gcd2];
+11
+12        long long skip=ex(i+1,gcd1,gcd2)%mod;
+13        long long add_int_seq1=ex(i+1,((!gcd1) ? v[i] : GCD[gcd1][v[i]]),gcd2)%mod;
+14        long long add_int_seq2=ex(i+1,gcd1,((!gcd2) ? v[i] : GCD[gcd2][v[i]]))%mod;
+15
+16        return dp[i][gcd1][gcd2]=(((skip+add_int_seq1)%mod)+add_int_seq2)%mod;
+17    }
+18
+19public:
+20    int subsequencePairCount(vector<int>& nums) {
+21        this->n=nums.size();
+22        this->v=nums;
+23        this->mod=1e9+7;
+24        this->GCD.resize(201, vector<int>(201,1));
+25        this->dp.resize(n, vector<vector<long long>>(201, vector<long long>(201,-1)));
+26
+27        for(int i=0; i<=200; i++){
+28            for(int j=0; j<=200; j++){
+29                this->GCD[i][j]=__gcd(i,j);
+30            }
+31        }
+32
+33        return ex(0,0,0);
+34    }
+35};
