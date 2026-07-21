@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2126-destroying-asteroids](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
