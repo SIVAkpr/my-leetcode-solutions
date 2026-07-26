@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2126-destroying-asteroids](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [2126-destroying-asteroids](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [3536-maximum-product-of-two-digits](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2614-prime-in-diagonal](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
