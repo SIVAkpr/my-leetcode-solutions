@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0290-word-pattern) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
