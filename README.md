@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2614-prime-in-diagonal) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
@@ -142,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
