@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3903-smallest-stable-index-i](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
