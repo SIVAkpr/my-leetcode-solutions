@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3853-merge-close-characters](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3853-merge-close-characters) |
 ## Array
 |  |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/SIVAkpr/my-leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
